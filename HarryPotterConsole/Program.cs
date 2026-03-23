@@ -1,8 +1,8 @@
 ﻿using System.Globalization;
-using HarryPotter.Serializables;
-using HarryPotter.Util;
+using HarryPotterConsole.Serializables;
+using HarryPotterConsole.Util;
 
-namespace HarryPotter;
+namespace HarryPotterConsole;
 
 internal class Program {
     private static List<Spell> _spells = null!;

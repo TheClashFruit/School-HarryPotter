@@ -1,7 +1,7 @@
-using HarryPotter.Serializables;
+using HarryPotterConsole.Serializables;
 using MySql.Data.MySqlClient;
 
-namespace HarryPotter.Util;
+namespace HarryPotterConsole.Util;
 
 public class Database : IDisposable {
     private static readonly MySqlConnection Connection =

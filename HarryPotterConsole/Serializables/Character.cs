@@ -1,4 +1,4 @@
-namespace HarryPotter.Serializables;
+namespace HarryPotterConsole.Serializables;
 
 public class Character {
     public string FullName { get; set; }

@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace HarryPotter.Util;
+namespace HarryPotterConsole.Util;
 
 public class CsvReader {
     public static List<T> Read<T>(

@@ -1,4 +1,4 @@
-namespace HarryPotter.Serializables;
+namespace HarryPotterConsole.Serializables;
 
 public class Spell {
     public string Name { get; set; }
